@@ -1,12 +1,6 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
- 
-
 ## AIM:
- 
-
- 
-
 To write a C program to implement the Playfair Substitution technique.
 
 ## DESCRIPTION:
@@ -176,5 +170,5 @@ return 0;
 
 ## Result:
 
-THus, to implement the Playfair Substitution technique is successfully excecuted.
+Thus, to implement the Playfair Substitution technique is successfully executed.
 
